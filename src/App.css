@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +36,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: "PretendardLight";
+  src: url("./fonts/Pretendard-Light.ttf");
+}
+
+@font-face {
+  font-family: "PretendardBold";
+  src: url("./fonts/Pretendard-Bold.ttf");
+}
+
+@font-face {
+  font-family: "PretendardBlack";
+  src: url("./fonts/Pretendard-Black.ttf");
 }
