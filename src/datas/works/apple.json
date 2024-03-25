@@ -1,6 +1,55 @@
 {
     "title":"교보정보통신 애플 B2B 플랫폼",
-    "description":"교보정보통신 애플 B2B 플랫폼 개발",
-    "images":["hyundai-newsletter-1.jpg","hyundai-newsletter-2.jpg","hyundai-newsletter-3.jpg"],
-    "link":"www.naver.com"
+    "sutitle":"교보정보통신 애플 B2B 플랫폼 프로토타입 모델 개발",
+    "stacks":["react", "recoil"],
+    "company":"ASAC",
+    "duaration":"2022.04.01 ~ 2023.01.01",
+    "link":"www.naver.com",
+    "mainimg": "https://img2.yna.co.kr/etc/inner/KR/2021/06/02/AKR20210602153700002_01_i_P4.jpg",
+    "experiences": [
+        {
+            "id":0,
+            "title":"pdf viewer 개발",
+            "sutitle":"교보정보통신 애플 B2B 플랫폼 프로토타입 모델 개발",
+            "descriptions":[
+                {
+                    "id":0,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":1,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":2,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                }
+            ]
+        },
+        {
+            "id":1,
+            "title":"pdf viewer 개발",
+            "sutitle":"교보정보통신 애플 B2B 플랫폼 프로토타입 모델 개발",
+            "descriptions":[
+                {
+                    "id":0,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":1,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":2,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                }
+            ]
+        }
+    ]
 }

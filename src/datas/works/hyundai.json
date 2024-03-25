@@ -1,6 +1,55 @@
 {
     "title":"Hyundai-newsletter",
-    "description":"현대 자동차 뉴스레터 홈페이지 기능개발 및 유지보수",
-    "images":["hyundai-newsletter-1.jpg","hyundai-newsletter-2.jpg","hyundai-newsletter-3.jpg"],
-    "link":"www.naver.com"
+    "sutitle":"현대자동차 임직원을 위한 뉴스레터 시스템 개발 및 유지보수",
+    "stacks":["react", "recoil"],
+    "company":"프리랜서 (풀타임, 외주)",
+    "duaration":"2024.01.01 ~ 2024.03.31",
+    "link":"www.hyundai-newsletter.com",
+    "mainimg": "https://img2.yna.co.kr/etc/inner/KR/2021/06/02/AKR20210602153700002_01_i_P4.jpg",
+    "experiences": [
+        {
+            "id":0,
+            "title":"Pdf viewer 개발",
+            "sutitle":"scroll zoom in/out, drag and drop, youtube iframe 동적 생성 기능 구현",
+            "descriptions":[
+                {
+                    "id":0,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":1,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":2,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                }
+            ]
+        },
+        {
+            "id":1,
+            "title":"Carousel 개발",
+            "sutitle":"Flicking, css를 활용한 carousel 개발",
+            "descriptions":[
+                {
+                    "id":0,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":1,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                },
+                {
+                    "id":2,
+                    "image":"https://res.heraldm.com/content/image/2021/11/02/20211102000271_0.jpg",
+                    "content":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                }
+            ]
+        }
+    ]
 }

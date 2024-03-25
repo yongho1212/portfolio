@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 
@@ -51,4 +52,16 @@
 @font-face {
   font-family: "PretendardBlack";
   src: url("./fonts/Pretendard-Black.ttf");
+}
+
+.p{
+  margin: 0;
+}
+
+.h1{
+  margin: 0;
+}
+
+.h2{
+  margin: 0;
 }
